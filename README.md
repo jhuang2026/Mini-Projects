@@ -1,2 +1,2 @@
 # Mini-Projects
- Mini projects repository
+A repository of my mini-projects
